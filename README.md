@@ -1,0 +1,1 @@
+Welcome to my repo for creating a webpack template!  I created this during a Futureproof lecture in a "code-along" style.  Feel free to use this as a template for your own React apps.  I certainly will be!
